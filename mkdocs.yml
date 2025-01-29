@@ -1,0 +1,19 @@
+site_name: DonaldDock Documentation
+site_description: Documentation for the DonaldDock project
+site_author: Your Name
+repo_url: https://github.com/yourusername/donalddock
+docs_dir: docs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Dock Guide: dock01.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition  # Enables note/warning/info boxes
+  - codehilite  # Syntax highlighting for code blocks
+
