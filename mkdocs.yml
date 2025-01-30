@@ -1,7 +1,7 @@
 site_name: DonaldDock Documentation
 site_description: Documentation for the DonaldDock project
-site_author: Your Name
-repo_url: https://github.com/yourusername/donalddock
+site_author: Antonio Hernandez
+repo_url: https://github.com/ajuggler/donalddock
 docs_dir: docs
 
 theme:
