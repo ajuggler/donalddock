@@ -5,7 +5,7 @@ This site provides documentation for the **DonaldDock** project.
 ## Getting Started
 
 - Read the [Dock Guide](dock01.md) for more details.
-- Check the [GitHub Repository](https://github.com/yourusername/donalddock) for updates.
+- Check the [GitHub Repository](https://github.com/ajuggler/donalddock) for updates.
 
 ## About
 
